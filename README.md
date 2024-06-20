@@ -6,8 +6,10 @@ SIMPLE CALCULATOR
   
 <title>Add Two Numbers</title>
 <body>
-
-</body
+<input type="num" name="numOne" value="">
+<input type="num" name="numTwo" value="">
+<input type="submit" name="button" value="add">
+</body>
 <script>
 
   var numOne = 1234;
