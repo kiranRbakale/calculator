@@ -6,6 +6,9 @@ SIMPLE CALCULATOR
   
 <title>Add Two Numbers</title>
 <body>
+<input type="num" name="numone" value="">
+<input type="num" name="numTwo" value="">
+<input type="submit" name="button" value="add">
 
 </body
 <script>
@@ -18,7 +21,5 @@ SIMPLE CALCULATOR
   
 </script>
 </head>
-<body>
 
-</body>
 </html>
